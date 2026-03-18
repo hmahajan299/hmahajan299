@@ -11,7 +11,7 @@
 <br/>
 
 <!-- Profile badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshal%20Mahajan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshal-mahajan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshal%20Mahajan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshal-mahajan-b7b213212)
 [![GitHub followers](https://img.shields.io/github/followers/hmahajan299?style=for-the-badge&color=38bdf8&labelColor=0d1117&logo=github)](https://github.com/hmahajan299)
 [![Profile Views](https://komarev.com/ghpvc/?username=hmahajan299&style=for-the-badge&color=0e7490&label=PROFILE+VIEWS)](https://github.com/hmahajan299)
 
