@@ -112,7 +112,7 @@ Status      : 🟢 Open to DevOps, Cloud & Cybersecurity Roles
 
 - 🎯 Pursuing: **AWS Cloud Practitioner**
 - 🎯 Pursuing: **Kubernetes & Cloud Native Associate (KCNA)**
-- 📖 Completed: **7 Habits of Highly Effective People** (Applied curriculum — YTK, BAPS)
+- 📖 Completed: **YTK, BAPS**
 - 🔐 Cybersecurity Internship Certificate — **BISAG-N**
 
 ---
